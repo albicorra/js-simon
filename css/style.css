@@ -1,0 +1,40 @@
+.random-number{
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 15%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
+#button-start{
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.user-number{
+    border: 2px solid black;
+    width: 15%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#button-check{
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+}
