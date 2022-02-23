@@ -12,6 +12,10 @@
     display: none;
 }
 
+.user-container{
+    display: none;
+}
+
 .active{
     display: block;
 }
